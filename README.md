@@ -1,5 +1,5 @@
 # Sudoku solver
-  Solving sudoku with backpropagation. 
+  Solving sudoku with backtracking. 
   Written in C++.
 
 ## Install
